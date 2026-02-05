@@ -1,0 +1,3 @@
+[submodule "Neonatal-Sepsis-Community-Metadata-Standard"]
+	path = Neonatal-Sepsis-Community-Metadata-Standard
+	url = https://github.com/pha4ge/Neonatal-Sepsis-Community-Metadata-Standard.git
