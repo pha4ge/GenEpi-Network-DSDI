@@ -4,3 +4,6 @@
 [submodule "Vibrio-Cholera-Community-Metadata-Standard"]
 	path = Vibrio-Cholera-Community-Metadata-Standard
 	url = https://github.com/pha4ge/Vibrio-Cholera-Community-Metadata-Standard.git
+[submodule "Malaria-Community-Metadata-Standard"]
+	path = Malaria-Community-Metadata-Standard
+	url = https://github.com/pha4ge/Malaria-Community-Metadata-Standard.git
